@@ -1,0 +1,15 @@
+## .NET / Visual Studio
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+
+## Build results / logs
+[Dd]ebug/
+[Rr]elease/
+*.log
+
+## OS
+Thumbs.db
+.DS_Store

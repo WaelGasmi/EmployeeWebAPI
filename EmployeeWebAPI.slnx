@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EmployeeWebAPI/EmployeeWebAPI.csproj" />
+  <Project Path="MesClasses/MesClasses.csproj" />
+</Solution>
